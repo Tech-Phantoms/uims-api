@@ -4,6 +4,12 @@ class UimsApi{
     constructor() {
 
     }
+    
+     /**
+     * 
+     * @param {*} param
+     * @returns true or false  
+     */
 
     async login({uid,password}){
         let url = await checkLogin({uid,password})
