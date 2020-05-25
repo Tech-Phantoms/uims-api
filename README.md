@@ -10,6 +10,12 @@ This library is inspired by [https://github.com/cu-unofficial/uims-api](https://
 Cuurently what this library does is takes `uid` and `password` and returns that the user is legit or not. 
 doesent store the uid or password in any way. 
 
+## Installation Instruction 
+
+```
+npm install uims-api
+```
+
 ## Documentation 
 
 ```javascript 
