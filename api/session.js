@@ -29,7 +29,7 @@ const login = async ({uid,password}) => {
     ])
 
 
-    await page.screenshot({path: 'example.png'})
+    //await page.screenshot({path: 'example.png'})
 
     await browser.close();
 
