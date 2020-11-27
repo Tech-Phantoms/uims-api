@@ -1,4 +1,4 @@
-# uims-api
+# uims-api ( NOT OPEN FOR EXTERNAL CONTRIBUTIONS ) 
  uims api written in javascript 
 
 
